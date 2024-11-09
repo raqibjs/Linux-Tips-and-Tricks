@@ -1,5 +1,7 @@
 # Easy tips for Linux Mint and Ubuntu, both for beginners and for advanced users.
 
+LINK: https://easylinuxtipsproject.blogspot.com/p/clean-mint.html#ID10
+
 As the Victorians used to say: cleanliness is next to godliness. So here are some tips to make your Linux even more divine.
 
 First of all two warnings:
